@@ -155,7 +155,7 @@ Follow these steps to run the project after downloading it from GitHub.
 Open terminal and run:
 
 ```bash
-git clone https://github.com/USERNAME/oss-audit-24MEI10119.git
+git clone https://github.com/devenderdagar1/oss-audit-24MEI10119.git
 ```
 
 Replace **USERNAME** with the actual GitHub username.
